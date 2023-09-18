@@ -1,0 +1,13 @@
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\bin\Debug\labtask2Sparepart.exe.config
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\bin\Debug\labtask2Sparepart.exe
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\bin\Debug\labtask2Sparepart.pdb
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\bin\Debug\labtask2Sparepart.xml
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.vbprojResolveAssemblyReference.cache
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.Resources.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.SplashScreen1.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.vbproj.GenerateResource.Cache
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.exe
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.xml
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.pdb
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.AboutBox1.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2Lily\labtask2Sparepart\labtask2Sparepart\obj\Debug\labtask2Sparepart.Form1.resources
